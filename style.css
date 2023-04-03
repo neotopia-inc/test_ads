@@ -43,6 +43,14 @@ img {
     background-position: center top;
 }
 
+#home {
+    background-image: url(../images/gradient1.png);
+    min-height: 100vh;
+}
+#home .page-title {
+    text-transform: none;
+}
+
 .main-nav li {
     margin-left: 36px;
 }
