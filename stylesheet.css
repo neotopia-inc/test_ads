@@ -95,8 +95,8 @@ img {
 /* ボタン */
 .button {
     box-sizing: border-box;
-    border: 1px solid #fff;
     font-size: 1rem;
+    font-weight: 520;
     background: #fff;
     color: #e888fb;
     border-radius: 10px;
