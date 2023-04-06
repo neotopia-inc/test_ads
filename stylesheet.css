@@ -35,7 +35,7 @@ img {
 }
 .main-nav {
     display: flex;
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: normal;
     font-family: sans-serif;
     text-transform: uppercase;
@@ -94,9 +94,11 @@ img {
 
 /* ボタン */
 .button {
-    font-size: 1.1rem;
+    box-sizing: border-box;
+    font-size: 1rem;
+    font-weight: 520;
     background: #fff;
-    color: #E888FB;
+    color: #e888fb;
     border-radius: 10px;
     padding: 10px 10px;
 }
