@@ -96,15 +96,9 @@ img {
 .button {
     font-size: 1.1rem;
     background: #fff;
-<<<<<<< HEAD
-    color: #ff51eb;
-    border-radius: 5px;
-    padding: 18px 32px;
-=======
     color: #E888FB;
     border-radius: 10px;
     padding: 10px 10px;
->>>>>>> origin/master
 }
 .button:hover {
     background: #141A39;
